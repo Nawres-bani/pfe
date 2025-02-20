@@ -1,0 +1,6 @@
+{
+    "mongo_url":"mongodb://localhost:27017/gestion-app",
+    "jwtSecret": "jwtSecret",
+    "tokenExpire":"2592000"
+}
+
